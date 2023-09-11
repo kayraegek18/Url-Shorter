@@ -1,6 +1,7 @@
-> Frontend kısmı SVELTE ile yapılmıştır.
-> Backend kısmında DENO altyapısı kullanılarak OAK http frameworkü ile yapılmıştır.
-> Backend de veri tabanı olarak POSTGRESQL kullanılmıştır ve tabloların yedekleri projede .csv dosyası olarak bulunmaktadır.
+# Kullanılan Teknolojiler
+- Frontend kısmı SVELTE ile yapılmıştır.
+- Backend kısmında DENO altyapısı kullanılarak OAK http frameworkü ile yapılmıştır.
+- Backend de veri tabanı olarak POSTGRESQL kullanılmıştır ve tabloların yedekleri projede .csv dosyası olarak bulunmaktadır.
 
 ### LUTFEN BU PROEJYI IZINSIZ ALMAYIN VE KENDINIZIN OLARAK GOSTERMEYIN!
 # Url-Shorter Images
